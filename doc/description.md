@@ -28,3 +28,9 @@
 *  Яндекс-Маркет YML выгрузка   
 *  RSS лента с товарами, статьями и новостями   
 *  Структурированные данные для Google Goods   
+
+
+
+Sample
+https://hotlist.biz/ru/p_review.html#hotengine-functions-view-n
+
